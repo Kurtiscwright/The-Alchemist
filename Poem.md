@@ -1,5 +1,7 @@
-The Alchemist
-by Ben Johnson
+#The Alchemist
+
+**The Alchemist**
+by _Ben Johnson_
 
 The sickness hot, a master quit, for fear,
 His house in town, and left one servant there;
@@ -14,3 +16,5 @@ Much company they draw, and much abuse,
 In casting figures, telling fortunes, news,
 Selling of flies, flat bawdry with the stone,
 Till it, and they, and all in fume are gone.
+
+URL: http://www.public-domain-poetry.com/ben-jonson/alchemist-2499
